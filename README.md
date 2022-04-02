@@ -2,6 +2,7 @@
 Have A look on my Achievements
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/AIwithPY_InterCert.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/Algorithms_L2B.png" alt="palash0216" /> </p>
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/Data%20Structure%20L2B.png" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/Codeheist_Codechef-MITS.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/Dig_Mar_Google.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/Eth_HaC_UDEMY.jpg" alt="palash0216" /> </p>
