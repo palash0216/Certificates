@@ -13,5 +13,8 @@ Have A look on my Achievements
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/InterviewBootcamp.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/CDM.png" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/CDM_2.JPG" alt="palash0216" /> </p>
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/SLA.JPG" alt="palash0216" /> </p>
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/AI_py%20program.JPG" alt="palash0216" /> </p>
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/FlipkartGRID3.0.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/certificate_RES_webinar.jpeg" alt="palash0216" /> </p>
 
