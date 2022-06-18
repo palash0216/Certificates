@@ -1,5 +1,8 @@
-# Certificates
-Have A look on my Achievements
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Certificates+%3A)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_ML_COP.JPG" alt="palash0216" /> </p>
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_ML_.JPG" alt="palash0216" /> </p>
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_WebDev.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/AIwithPY_InterCert.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/Algorithms_L2B.png" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/DP.JPG" alt="palash0216" /> </p>
