@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Certificates+%3A)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_ML_internship.JPG" alt="palash0216" /> </p>
+<p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_WD_internship.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_WD_COP.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_ML_COP.JPG" alt="palash0216" /> </p>
 <p align="left"> <img src="https://github.com/palash0216/Certificates/blob/main/1Stop_ML_.JPG" alt="palash0216" /> </p>
